@@ -190,4 +190,4 @@ echo "║              LAB COMPLETED SUCCESSFULLY!              ║"
 echo "╚═══════════════════════════════════════════════════════╝"
 echo "${RESET_FORMAT}"
 echo
-echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe to TechXNinjas:${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@Arcade61432${RESET_FORMAT}"
+echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe to TechXNinjas:${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@TechXNinjas${RESET_FORMAT}"
