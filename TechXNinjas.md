@@ -24,9 +24,9 @@
 2. **Download and Run the Setup Script**  
    - Copy and paste the following commands into the Cloud Shell terminal:
      ```bash
-     curl -LO raw.githubusercontent.com/TechXNinjas/Cloud-Monitoring-Qwik-Start/refs/heads/main/techxninjas.sh
-     sudo chmod +x techxninjas.sh
-     ./techxninjas.sh
+     curl -LO raw.githubusercontent.com/TechXNinjas/Cloud-Monitoring-Qwik-Start/refs/heads/main/TechXNinjas.sh
+     sudo chmod +x TechXNinjas.sh
+     ./TechXNinjas.sh
      ```
    - This will:
      - ✅ Download the script from TechXNinjas GitHub  
